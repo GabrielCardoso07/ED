@@ -1,0 +1,8 @@
+C:\Users\Usuario\OneDrive\Documentos\Estrutura de dados\TesteED2\TesteED2\bin\Debug\TesteED2.exe.config
+C:\Users\Usuario\OneDrive\Documentos\Estrutura de dados\TesteED2\TesteED2\bin\Debug\TesteED2.exe
+C:\Users\Usuario\OneDrive\Documentos\Estrutura de dados\TesteED2\TesteED2\bin\Debug\TesteED2.pdb
+C:\Users\Usuario\OneDrive\Documentos\Estrutura de dados\TesteED2\TesteED2\obj\Debug\TesteED2.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Documentos\Estrutura de dados\TesteED2\TesteED2\obj\Debug\TesteED2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\OneDrive\Documentos\Estrutura de dados\TesteED2\TesteED2\obj\Debug\TesteED2.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Documentos\Estrutura de dados\TesteED2\TesteED2\obj\Debug\TesteED2.exe
+C:\Users\Usuario\OneDrive\Documentos\Estrutura de dados\TesteED2\TesteED2\obj\Debug\TesteED2.pdb
