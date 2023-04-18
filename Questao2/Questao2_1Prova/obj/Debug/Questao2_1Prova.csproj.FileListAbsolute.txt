@@ -1,0 +1,8 @@
+C:\Users\Usuario\OneDrive\Documentos\Estrutura de dados\Questao2_1Prova\Questao2_1Prova\bin\Debug\Questao2_1Prova.exe.config
+C:\Users\Usuario\OneDrive\Documentos\Estrutura de dados\Questao2_1Prova\Questao2_1Prova\bin\Debug\Questao2_1Prova.exe
+C:\Users\Usuario\OneDrive\Documentos\Estrutura de dados\Questao2_1Prova\Questao2_1Prova\bin\Debug\Questao2_1Prova.pdb
+C:\Users\Usuario\OneDrive\Documentos\Estrutura de dados\Questao2_1Prova\Questao2_1Prova\obj\Debug\Questao2_1Prova.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Documentos\Estrutura de dados\Questao2_1Prova\Questao2_1Prova\obj\Debug\Questao2_1Prova.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\OneDrive\Documentos\Estrutura de dados\Questao2_1Prova\Questao2_1Prova\obj\Debug\Questao2_1Prova.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Documentos\Estrutura de dados\Questao2_1Prova\Questao2_1Prova\obj\Debug\Questao2_1Prova.exe
+C:\Users\Usuario\OneDrive\Documentos\Estrutura de dados\Questao2_1Prova\Questao2_1Prova\obj\Debug\Questao2_1Prova.pdb
